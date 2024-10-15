@@ -2,7 +2,7 @@
 * Location: México City, MX
 * Age: 28
 
-##  :smiley: Summary 
+##  😃 Summary 
 
 I am a systems professional specializing in the development of mobile applications using
 agile methodologies. I have a solid background in planning, designing, and developing
@@ -10,7 +10,7 @@ innovative mobile solutions that meet the needs of end users. As a result, I hav
 effective communication and leadership skills, allowing me to work closely with business
 and end-user teams to identify and resolve problems effectively.
 
-## :dart: Skills
+## 🎯 Skills
 
 * Native Android Development
 * Mobile Development with Flutter
@@ -41,7 +41,7 @@ Universidad del Valle de México - Certified
 * CyberSecurity Management Certificate - Embiz Foundation
 * PCI DSS - Internal Security Assessor
 
-## Badges
+## 🥇 Badges
 
 <div style="display: flex; justify-content: space-between;">
 
