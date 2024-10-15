@@ -2,7 +2,7 @@
 * Location: México City, MX
 * Age: 28
 
-## Summary
+##  :smiley: Summary 
 
 I am a systems professional specializing in the development of mobile applications using
 agile methodologies. I have a solid background in planning, designing, and developing
