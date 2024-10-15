@@ -43,9 +43,15 @@ Universidad del Valle de México - Certified
 
 ## Badges
 
-![Cybersecurity Bafge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112990831)
-![Scrum Master](https://images.credly.com/size/340x340/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png)
-![Data Analysis](https://images.credly.com/size/340x340/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob)
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112990831" alt="Cybersecurity Badge" width="150" height="150">
+  
+  <img src="https://images.credly.com/size/340x340/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" alt="Scrum Master" width="150" height="150">
+  
+  <img src="https://images.credly.com/size/340x340/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" alt="Data Analysis" width="150" height="150">
+
+</div>
 
 
 
