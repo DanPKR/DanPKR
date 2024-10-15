@@ -41,6 +41,9 @@ Universidad del Valle de México - Certified
 * CyberSecurity Management Certificate - Embiz Foundation
 * PCI DSS - Internal Security Assessor
 
+## Badges
+
+![Cybersecurity Bafge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112990831)
 
 
 
