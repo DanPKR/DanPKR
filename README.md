@@ -30,5 +30,17 @@ Universidad del Valle de México - 70% Complete
 * Diploma in Information Security, June 2024 - September 2024
 Universidad del Valle de México - Certified
 
+## Courses and Certifications
+
+* Cambridge FCE (First Certificate in English) - English Level B2
+* Scrum Master Professional Certificate (SMPC) 2022 - Certiprof
+* EMV Training Course 2023 - Barnes International
+* DevOps Foundation - DevOps Institute
+* Google Cloud Fundamentals: Core Infrastructure
+* Essential Google Cloud Infrastructure: Foundation
+* CyberSecurity Management Certificate - Embiz Foundation
+* PCI DSS - Internal Security Assessor
+
+
 
 
