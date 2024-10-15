@@ -1,2 +1,24 @@
-<table><thead><tr><th rowspan="2"><h2><a id="_ovm0zuo3cwes"></a><strong>Resumen</strong></h2></th><th colspan="2"></th></tr><tr><th colspan="2"><p>Soy un profesional en sistemas especializado en el desarrollo de aplicaciones móviles utilizando enfoques ágiles. Poseo una sólida experiencia en la planificación, diseño y desarrollo de soluciones móviles innovadoras que satisfacen las necesidades de los usuarios finales. Como resultado, he desarrollado habilidades efectivas de comunicación y liderazgo, lo que me permite trabajar en estrecha colaboración con los equipos de negocio y de usuario final para identificar y resolver problemas de manera efectiva.</p></th></tr><tr><th rowspan="8"><h2><a id="_ovm0zuo3cwes"></a><strong>Habilidades</strong></h2></th><th colspan="2"></th></tr><tr><th colspan="2"><p>Desarrollo Móvil en Flutter</p></th></tr><tr><th colspan="2"><p>Desarrollo Web Angular</p></th></tr><tr><th colspan="2"><p>Desarrollo Backend Nest JS y Node JS</p></th></tr><tr><th colspan="2"><p>Desarrollo Backend Ktor</p></th></tr><tr><th colspan="2"><p>Desarrollo Embebido C/C++</p></th></tr><tr><th colspan="2"><p>Dominio de Sistemas Linux</p></th></tr><tr><th colspan="2"><p>Desarrollo Android Nativo</p></th></tr><tr><th rowspan="4"><h2><a id="_ovm0zuo3cwes"></a><strong>Educación</strong></h2></th><th></th><th></th></tr><tr><th><p>Ingeniería en Computación - FES Aragón UNAM</p></th><th><p>Trunco 95%</p></th></tr><tr><th><p>Ingeniería en Tecnologías y Sistemas de Información - Universidad del Valle de México</p></th><th><p>Cursando 80%</p></th></tr><tr><th><p>Diplomado en Seguridad Informática - Universidad del Valle de México</p></th><th><p>Certificado</p></th></tr><tr><th rowspan="9"><h2><a id="_ovm0zuo3cwes"></a><strong>Certificaciones</strong></h2></th><th colspan="2"></th></tr><tr><th colspan="2"><p>Scrum Master Professional Certificate SMPC (2022) - Certiprof</p></th></tr><tr><th colspan="2"><p>EMV Training Course 2023 - Barnes International</p></th></tr><tr><th colspan="2"><p>DevOps Foundation - DevOps Institute</p></th></tr><tr><th colspan="2"><p>Google Cloud Fundamentals: Core Infrastructure</p></th></tr><tr><th colspan="2"><p>Essential Google Cloud Infrastructure: Foundation</p></th></tr><tr><th colspan="2"><p>Cambridge FCE (First Certifícate in English) - Inglés Nivel B2</p></th></tr><tr><th colspan="2"><p>CyberSecurity Management Certificate - Embiz Foundation</p></th></tr><tr><th colspan="2"><p>PCI DSS - Internal Security Assessor</p></th></tr></thead></table>
+# Daniel Tovar Samano
+LocationL México City, MX
+Age: 28
+
+## Summary
+
+I am a systems professional specializing in the development of mobile applications using
+agile methodologies. I have a solid background in planning, designing, and developing
+innovative mobile solutions that meet the needs of end users. As a result, I have developed
+effective communication and leadership skills, allowing me to work closely with business
+and end-user teams to identify and resolve problems effectively.
+
+## Skills
+
+* Native Android Development
+* Mobile Development with Flutter
+* Web Development with Angular
+* Backend Development with Nest JS and Node JS
+* Backend Development with .Net Core
+* Backend Development with Ktor
+* Embedded Development in C/C++
+* Proficient in Linux Systems
+
 
