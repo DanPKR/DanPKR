@@ -1,5 +1,5 @@
 # Daniel Tovar Samano
-LocationL México City, MX
+Location: México City, MX
 Age: 28
 
 ## Summary
@@ -20,5 +20,15 @@ and end-user teams to identify and resolve problems effectively.
 * Backend Development with Ktor
 * Embedded Development in C/C++
 * Proficient in Linux Systems
+
+## Education
+
+* Computer Engineering , 2014 - 2019
+FES Aragón, UNAM - 90% Complete
+* Engineering in Technologies and Information Systems, 2020 - 2025
+Universidad del Valle de México - 70% Complete
+* Diploma in Information Security, June 2024 - September 2024
+Universidad del Valle de México - Certified
+
 
 
