@@ -1,6 +1,6 @@
 # Daniel Tovar Samano
-Location: México City, MX
-Age: 28
+* Location: México City, MX
+* Age: 28
 
 ## Summary
 
