@@ -10,7 +10,7 @@ innovative mobile solutions that meet the needs of end users. As a result, I hav
 effective communication and leadership skills, allowing me to work closely with business
 and end-user teams to identify and resolve problems effectively.
 
-## Skills
+## :dart: Skills
 
 * Native Android Development
 * Mobile Development with Flutter
@@ -21,7 +21,7 @@ and end-user teams to identify and resolve problems effectively.
 * Embedded Development in C/C++
 * Proficient in Linux Systems
 
-## Education
+## 🏫 Education
 
 * Computer Engineering , 2014 - 2019
 FES Aragón, UNAM - 90% Complete
@@ -30,7 +30,7 @@ Universidad del Valle de México - 70% Complete
 * Diploma in Information Security, June 2024 - September 2024
 Universidad del Valle de México - Certified
 
-## Courses and Certifications
+## 🥇 Courses and Certifications
 
 * Cambridge FCE (First Certificate in English) - English Level B2
 * Scrum Master Professional Certificate (SMPC) 2022 - Certiprof
