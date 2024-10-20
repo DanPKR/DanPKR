@@ -20,6 +20,8 @@ and end-user teams to identify and resolve problems effectively.
 * Backend Development with Ktor
 * Embedded Development in C/C++
 * Proficient in Linux Systems
+* Git Flow Workflow
+* Agile methodology
 
 ## 🏫 Education
 
