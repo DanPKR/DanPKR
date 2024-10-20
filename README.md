@@ -24,11 +24,11 @@ and end-user teams to identify and resolve problems effectively.
 ## 🏫 Education
 
 * Computer Engineering , 2014 - 2019
-FES Aragón, UNAM - 90% Complete
+FES Aragón, UNAM 
 * Engineering in Technologies and Information Systems, 2020 - 2025
-Universidad del Valle de México - 70% Complete
+Universidad del Valle de México 
 * Diploma in Information Security, June 2024 - September 2024
-Universidad del Valle de México - Certified
+Universidad del Valle de México 
 
 ## 🥇 Courses and Certifications
 
